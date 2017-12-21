@@ -5,7 +5,6 @@ import sklearn.preprocessing as prep
 import numpy as np
 
 
-
 # Define a fully connected layer
 def fc_op(input_op, output_dim, name, activation = tf.nn.relu):
 
@@ -118,7 +117,6 @@ def get_random_block_from_data(x_data, batch_size):
 
 
 
-
 # Main
 data_dim = 784
 batch_size = 100
@@ -167,14 +165,4 @@ print("Test loss: ", test_loss)
 # Reconstruct Data
 x_sample = get_random_block_from_data(x_test, 5)
 reconstruction(sess, x_mean, x_sample)
-
-
-
-    
-
-
-
-
-
-
 
