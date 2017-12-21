@@ -166,3 +166,4 @@ print("Test loss: ", test_loss)
 x_sample = get_random_block_from_data(x_test, 5)
 reconstruction(sess, x_mean, x_sample)
 
+
