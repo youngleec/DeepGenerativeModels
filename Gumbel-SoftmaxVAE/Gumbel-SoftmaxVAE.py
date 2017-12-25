@@ -169,9 +169,3 @@ print("Test loss: ", test_loss)
 x_sample, _ = mnist.test.next_batch(5)
 reconstruction(sess, PNet_x, x_sample)
 
-
-
-    
-
-
-
