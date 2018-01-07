@@ -9,6 +9,6 @@ Currently, these models are compatible with TensorFlow 1.4 or later. And this pr
 * [Gumbel-SoftmaxVAE](https://github.com/youngleec/DeepGenerativeModels/tree/master/Gumbel-SoftmaxVAE): Categorical Reparameterization with Gumbel-Softmax ([paper](https://arxiv.org/abs/1611.01144))
 * VQVAE: Neural Discrete Representation Learning ([paper](https://arxiv.org/abs/1711.00937))
 * TripleGAN: Triple Generative Adversarial Nets ([paper](https://arxiv.org/abs/1703.02291))
-
+* ConditionalVAE: Semi-Supervised Learning with Deep Generative Models ([paper](https://arxiv.org/abs/1406.5298))
 
 
