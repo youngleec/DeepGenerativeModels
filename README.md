@@ -10,5 +10,5 @@ Currently, these models are compatible with TensorFlow 1.4 or later. And this pr
 * VQVAE: Neural Discrete Representation Learning ([paper](https://arxiv.org/abs/1711.00937))
 * TripleGAN: Triple Generative Adversarial Nets ([paper](https://arxiv.org/abs/1703.02291))
 * ConditionalVAE: Semi-Supervised Learning with Deep Generative Models ([paper](https://arxiv.org/abs/1406.5298))
-
+* AAE: Adversarial Autoencoders ([paper](https://arxiv.org/abs/1511.05644))
 
