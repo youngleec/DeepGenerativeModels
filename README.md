@@ -26,6 +26,6 @@ The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables 
 
 ## Reviews
 * Variational Inference: A Review for Statisticians ([paper](https://arxiv.org/abs/1601.00670))
-
+* Variational Inference and Deep Learning: A New Synthesis ([paper](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf?dl=1))
 
 
