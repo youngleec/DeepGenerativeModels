@@ -1,7 +1,7 @@
 # Deep Generative Models
-A collection of deep generative models and their implementations in TensorFlow.
+A collection of deep generative models, including the classic papers, their implementations in TensorFlow, tutorials, reviews, the best conferences and workshops in related research areas.
 
-Currently, these models are compatible with TensorFlow 1.4 or later. And this project is in progress.
+Currently, these implementations are compatible with TensorFlow 1.4 or later. And this project is in progress.
 
 ## Models
 * [VAE](VAE): Auto-Encoding Variational Bayes ([paper](https://arxiv.org/abs/1312.6114)) <br> 
