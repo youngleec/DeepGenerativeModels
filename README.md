@@ -1,5 +1,5 @@
 # Deep Generative Models
-A collection of deep generative models, including the classic papers, their implementations in TensorFlow, tutorials, reviews, the best conferences and workshops in related research areas.
+A collection of deep generative models, including the classic papers, their implementations in TensorFlow, tutorials, reviews, the most important conferences and workshops in related research areas.
 
 Currently, these implementations are compatible with TensorFlow 1.4 or later. And this project is in progress.
 
