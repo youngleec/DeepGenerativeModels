@@ -9,7 +9,7 @@ z_dim = 32
 hidden_dim = 256
 noise_dim = 32
 batch_size = 128
-minibatch_number = 1000000
+minibatch_number = 10000000
 REUSE = None
 
 
