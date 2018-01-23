@@ -162,10 +162,10 @@ VAE_loss = - tf.reduce_mean(- T_q) - log_likelihood
 
 # Training
 T_optimizer = tf.train.AdamOptimizer()
-T_train = T_optimizer.minimize(T_loss, var_list=TParameter)
+T_train = T_optimizer.minimize(T_loss, var_list = TParameter)
 
 VAE_optimizer = tf.train.AdamOptimizer()
-VAE_train = VAE_optimizer.minimize(VAE_loss, var_list=[QParameter, PParameter])
+VAE_train = VAE_optimizer.minimize(VAE_loss, var_list = QParameter + PParameter)
 
 # Build a Session
 init = tf.global_variables_initializer()
