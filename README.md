@@ -13,7 +13,7 @@ The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables 
 * VQVAE: Neural Discrete Representation Learning ([paper](https://arxiv.org/abs/1711.00937))
 * TripleGAN: Triple Generative Adversarial Nets ([paper](https://arxiv.org/abs/1703.02291))
 * ConditionalVAE: Semi-Supervised Learning with Deep Generative Models ([paper](https://arxiv.org/abs/1406.5298))
-* AAE: Adversarial Autoencoders ([paper](https://arxiv.org/abs/1511.05644))
+* [AAE](AAE): Adversarial Autoencoders ([paper](https://arxiv.org/abs/1511.05644))
 * f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization ([paper](https://arxiv.org/abs/1606.00709))
 * ImprovedGAN: Improved Techniques for Training GANs ([paper](https://arxiv.org/abs/1606.03498))
 * DCGAN: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks ([paper](https://arxiv.org/abs/1511.06434))
