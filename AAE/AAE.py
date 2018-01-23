@@ -175,6 +175,3 @@ for i in range(minibatch_number):
 
 
 
-
-        
-        
