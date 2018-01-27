@@ -23,6 +23,7 @@ The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables 
 * NIPS 2016 Tutorial: Generative Adversarial Networks ([paper](https://arxiv.org/abs/1701.00160) [slides](https://media.nips.cc/Conferences/2016/Slides/6202-Slides.pdf) [video](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks))
 * CVPR 2017 Tutorial: Theory and Application of Generative Adversarial Networks ([slides](https://raw.githubusercontent.com/mingyuliutw/cvpr2017_gan_tutorial/master/gan_tutorial.pdf) [video](https://www.youtube.com/watch?v=KudkR-fFu_8))
 * Tutorial on Variational Autoencoders ([paper](https://arxiv.org/abs/1606.05908))
+* Bayesian Deep Learning and Generic Bayesian Inference ([slides](https://www.dropbox.com/s/xcawad601yplnm5/blei.pdf?dl=0))
 
 ## Reviews
 * Variational Inference: A Review for Statisticians ([paper](https://arxiv.org/abs/1601.00670))
