@@ -19,6 +19,12 @@ The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables 
 * DCGAN: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks ([paper](https://arxiv.org/abs/1511.06434))
 * WGAN: Wasserstein Generative Adversarial Networks ([paper](http://proceedings.mlr.press/v70/arjovsky17a.html))
 
+## Selected Papers of ICLR 2018
+* [AmbientGAN: Generative Models From Lossy Measurements](https://openreview.net/forum?id=Hy7fDog0b)
+* [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://openreview.net/forum?id=Hk99zCeAb)
+* [Wasserstein Auto-Encoders](https://openreview.net/forum?id=HkL7n1-0b)
+* [Spectral Normalization for Generative Adversarial Networks](https://openreview.net/forum?id=B1QRgziT-)
+
 ## Tutorials
 * NIPS 2016 Tutorial: Generative Adversarial Networks ([paper](https://arxiv.org/abs/1701.00160) [slides](https://media.nips.cc/Conferences/2016/Slides/6202-Slides.pdf) [video](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks))
 * CVPR 2017 Tutorial: Theory and Application of Generative Adversarial Networks ([slides](https://raw.githubusercontent.com/mingyuliutw/cvpr2017_gan_tutorial/master/gan_tutorial.pdf) [video](https://www.youtube.com/watch?v=KudkR-fFu_8))
