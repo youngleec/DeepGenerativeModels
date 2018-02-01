@@ -3,7 +3,7 @@ A collection of deep generative models, including the classic papers, their impl
 
 Currently, these implementations are compatible with TensorFlow 1.4 or later. And this project is in progress.
 
-## Models
+## Models and Their Implementations
 * [VAE](VAE): Auto-Encoding Variational Bayes ([paper](https://arxiv.org/abs/1312.6114)) <br> 
 Stochastic Backpropagation and Approximate Inference in Deep Generative Models ([paper](https://arxiv.org/abs/1401.4082))
 * [GAN](GAN): Generative Adversarial Nets ([paper](https://arxiv.org/abs/1406.2661)) 
