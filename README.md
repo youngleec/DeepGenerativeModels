@@ -24,6 +24,7 @@ The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables 
 * Progressive Growing of GANs for Improved Quality, Stability, and Variation ([paper](https://openreview.net/forum?id=Hk99zCeAb) [code](https://github.com/tkarras/progressive_growing_of_gans))
 * Wasserstein Auto-Encoders ([paper](https://openreview.net/forum?id=HkL7n1-0b))
 * Spectral Normalization for Generative Adversarial Networks ([paper](https://openreview.net/forum?id=B1QRgziT-))
+* Kernel Implicit Variational Inference ([paper](https://openreview.net/forum?id=r1l4eQW0Z))
 
 ## Tutorials
 * NIPS 2016 Tutorial: Generative Adversarial Networks ([paper](https://arxiv.org/abs/1701.00160) [slides](https://media.nips.cc/Conferences/2016/Slides/6202-Slides.pdf) [video](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks))
