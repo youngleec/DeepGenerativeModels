@@ -20,10 +20,10 @@ The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables 
 * WGAN: Wasserstein Generative Adversarial Networks ([paper](http://proceedings.mlr.press/v70/arjovsky17a.html))
 
 ## Selected Papers of ICLR 2018
-* [AmbientGAN: Generative Models From Lossy Measurements](https://openreview.net/forum?id=Hy7fDog0b)
-* [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://openreview.net/forum?id=Hk99zCeAb)
-* [Wasserstein Auto-Encoders](https://openreview.net/forum?id=HkL7n1-0b)
-* [Spectral Normalization for Generative Adversarial Networks](https://openreview.net/forum?id=B1QRgziT-)
+* AmbientGAN: Generative Models From Lossy Measurements ([paper](https://openreview.net/forum?id=Hy7fDog0b))
+* Progressive Growing of GANs for Improved Quality, Stability, and Variation ([paper](https://openreview.net/forum?id=Hk99zCeAb) [code](https://github.com/tkarras/progressive_growing_of_gans))
+* Wasserstein Auto-Encoders ([paper](https://openreview.net/forum?id=HkL7n1-0b))
+* Spectral Normalization for Generative Adversarial Networks ([paper](https://openreview.net/forum?id=B1QRgziT-))
 
 ## Tutorials
 * NIPS 2016 Tutorial: Generative Adversarial Networks ([paper](https://arxiv.org/abs/1701.00160) [slides](https://media.nips.cc/Conferences/2016/Slides/6202-Slides.pdf) [video](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks))
