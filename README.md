@@ -37,10 +37,10 @@ The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables 
 * Variational Inference and Deep Learning: A New Synthesis ([paper](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf?dl=1))
 
 ## Conferences
-* [ICLR 2017](https://openreview.net/group?id=ICLR.cc/2017/conference)
+* [ICLR 2017](https://openreview.net/group?id=ICLR.cc/2017/conference) ([Open Review Explorer](https://chillee.github.io/OpenReviewExplorer/index.html?conf=iclr2017))
 * [ICML 2017](https://icml.cc/Conferences/2017/Schedule?type=Poster)
 * [NIPS 2017](https://nips.cc/Conferences/2017/Schedule?type=Poster)
-* [ICLR 2018](https://openreview.net/group?id=ICLR.cc/2018/Conference)
+* [ICLR 2018](https://openreview.net/group?id=ICLR.cc/2018/Conference) ([Open Review Explorer](https://chillee.github.io/OpenReviewExplorer/index.html))
 
 ## Workshops
 * [ICML 2017 Workshop on Implicit Generative Models](https://sites.google.com/view/implicitmodels/)
