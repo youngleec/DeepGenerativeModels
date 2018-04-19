@@ -20,7 +20,7 @@ The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables 
 * WGAN: Wasserstein Generative Adversarial Networks ([paper](http://proceedings.mlr.press/v70/arjovsky17a.html))
 
 ## Selected Papers of ICLR 2018
-* AmbientGAN: Generative Models From Lossy Measurements ([paper](https://openreview.net/forum?id=Hy7fDog0b))
+* AmbientGAN: Generative Models From Lossy Measurements ([paper](https://openreview.net/forum?id=Hy7fDog0b) [code](https://github.com/AshishBora/ambient-gan))
 * Progressive Growing of GANs for Improved Quality, Stability, and Variation ([paper](https://openreview.net/forum?id=Hk99zCeAb) [code](https://github.com/tkarras/progressive_growing_of_gans))
 * Wasserstein Auto-Encoders ([paper](https://openreview.net/forum?id=HkL7n1-0b))
 * Spectral Normalization for Generative Adversarial Networks ([paper](https://openreview.net/forum?id=B1QRgziT-))
