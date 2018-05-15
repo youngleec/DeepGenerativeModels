@@ -16,7 +16,7 @@ The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables 
 * [AAE](AAE): Adversarial Autoencoders ([paper](https://arxiv.org/abs/1511.05644))
 * f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization ([paper](https://arxiv.org/abs/1606.00709))
 * ImprovedGAN: Improved Techniques for Training GANs ([paper](https://arxiv.org/abs/1606.03498))
-* DCGAN: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks ([paper](https://arxiv.org/abs/1511.06434))
+* [DCGAN](DCGAN): Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks ([paper](https://arxiv.org/abs/1511.06434))
 * WGAN: Wasserstein Generative Adversarial Networks ([paper](http://proceedings.mlr.press/v70/arjovsky17a.html))
 
 ## Selected Papers of ICLR 2018
